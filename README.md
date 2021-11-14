@@ -1,1 +1,3 @@
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uKUZN24jAqQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Boa noite, meu nome é Gabriel Leme e esse projeto foi criado com base em um teste para a empresa Avivatec, considerando isso peço que veja o vídeo abaixo que contem explicações sobre o código.
+
+https://www.youtube.com/embed/uKUZN24jAqQ
